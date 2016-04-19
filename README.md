@@ -1,2 +1,2 @@
-# Aeasyhomework
-The digital image processing course final work
+A easy homework
+The digital image processing course final homework
